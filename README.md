@@ -7,7 +7,7 @@ Hasselblad firmware (camera bodies + lenses + XCD lens families) version-to-vers
 
 ## DIFFS
 
-Quick Nav: [907X & CFV 100C](#907x--cfv-100c) · [907X 50C](#907x-50c) · [907X Anniversary Edition Kit](#907x-anniversary-edition-kit) · [907X Special Edition](#907x-special-edition) · [A6D-100c](#a6d-100c) · [CFV II 50C](#cfv-ii-50c) · [H6D-100c](#h6d-100c) · [H6D-400c MS](#h6d-400c-ms) · [HC 2,2/100](#hc-22100) · [HC 2,8/80](#hc-2880) · [HC 3,2/150 N](#hc-32150-n) · [HC 3,5/35](#hc-3535) · [HC 3,5/50 II](#hc-3550-ii) · [HC 3,5~4,5/50-110](#hc-354550-110) · [HC 4,5/300](#hc-45300) · [HC 4/210](#hc-4210) · [HC Macro 4/120 II](#hc-macro-4120-ii) · [HCD 4,8/24](#hcd-4824) · [HCD 4/28](#hcd-428) · [HCD 4~5,6/35-90](#hcd-45635-90) · [X1D II 50C](#x1d-ii-50c) · [X1D-50c](#x1d-50c) · [X1D-50c 4116 Edition](#x1d-50c-4116-edition) · [X2D 100C](#x2d-100c) · [X2D 100C Earth Explorer Limited Edition](#x2d-100c-earth-explorer-limited-edition) · [X2D II 100C](#x2d-ii-100c) · [XCD 1,9/80](#xcd-1980) · [XCD 2,5/25V](#xcd-2525v) · [XCD 2,5/38V](#xcd-2538v) · [XCD 2,5/55V](#xcd-2555v) · [XCD 2,5/90V](#xcd-2590v) · [XCD 2,8-4/35-100E](#xcd-28-435-100e) · [XCD 2,8/135](#xcd-28135) · [XCD 2,8/65](#xcd-2865) · [XCD 3,2/90](#xcd-3290) · [XCD 3,4/75P](#xcd-3475p) · [XCD 3,5-4,5/35-75](#xcd-35-4535-75) · [XCD 3,5/120](#xcd-35120) · [XCD 3,5/30](#xcd-3530) · [XCD 3,5/45](#xcd-3545) · [XCD 4/21](#xcd-421) · [XCD 4/28P](#xcd-428p) · [XCD 4/45P](#xcd-445p)
+Quick Nav: [907X & CFV 100C](#907x--cfv-100c) · [907X 50C](#907x-50c) · [907X Anniversary Edition Kit](#907x-anniversary-edition-kit) · [907X Special Edition](#907x-special-edition) · [A6D-100c](#a6d-100c) · [CFV II 50C](#cfv-ii-50c) · [H6D-100c](#h6d-100c) · [H6D-400c MS](#h6d-400c-ms) · [H6D-50c](#h6d-50c) · [HC 2,2/100](#hc-22100) · [HC 2,8/80](#hc-2880) · [HC 3,2/150 N](#hc-32150-n) · [HC 3,5/35](#hc-3535) · [HC 3,5/50 II](#hc-3550-ii) · [HC 3,5~4,5/50-110](#hc-354550-110) · [HC 4,5/300](#hc-45300) · [HC 4/210](#hc-4210) · [HC Macro 4/120 II](#hc-macro-4120-ii) · [HCD 4,8/24](#hcd-4824) · [HCD 4/28](#hcd-428) · [HCD 4~5,6/35-90](#hcd-45635-90) · [X1D II 50C](#x1d-ii-50c) · [X1D-50c](#x1d-50c) · [X1D-50c 4116 Edition](#x1d-50c-4116-edition) · [X2D 100C](#x2d-100c) · [X2D 100C Earth Explorer Limited Edition](#x2d-100c-earth-explorer-limited-edition) · [X2D II 100C](#x2d-ii-100c) · [XCD 1,9/80](#xcd-1980) · [XCD 2,5/25V](#xcd-2525v) · [XCD 2,5/38V](#xcd-2538v) · [XCD 2,5/55V](#xcd-2555v) · [XCD 2,5/90V](#xcd-2590v) · [XCD 2,8-4/35-100E](#xcd-28-435-100e) · [XCD 2,8/135](#xcd-28135) · [XCD 2,8/65](#xcd-2865) · [XCD 3,2/90](#xcd-3290) · [XCD 3,4/75P](#xcd-3475p) · [XCD 3,5-4,5/35-75](#xcd-35-4535-75) · [XCD 3,5/120](#xcd-35120) · [XCD 3,5/30](#xcd-3530) · [XCD 3,5/45](#xcd-3545) · [XCD 4/21](#xcd-421) · [XCD 4/28P](#xcd-428p) · [XCD 4/45P](#xcd-445p)
 
 ### 907X & CFV 100C
 
@@ -71,6 +71,16 @@ View diffs
 View diffs
 
 - [1.21.0 .vs 1.21.1](H6D-400c_MS/1.21.0__vs__1.21.1/README.md)
+
+### H6D-50c
+
+View diffs
+
+- [1.20.1 .vs 1.21.0](H6D-50c/1.20.1__vs__1.21.0/README.md)
+- [1.20.0 .vs 1.20.1](H6D-50c/1.20.0__vs__1.20.1/README.md)
+- [1.19.0 .vs 1.20.0](H6D-50c/1.19.0__vs__1.20.0/README.md)
+- [1.17.0 .vs 1.19.0](H6D-50c/1.17.0__vs__1.19.0/README.md)
+- [1.16.0 .vs 1.17.0](H6D-50c/1.16.0__vs__1.17.0/README.md)
 
 ### HC 2,2/100
 
